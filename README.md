@@ -4,7 +4,7 @@
 
 <h3 align="left">My portfolio</h3>
 
-https://github.com/OldaJ/OldaJ.github.io.git
+https://oldaj.github.io/
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
